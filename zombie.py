@@ -91,5 +91,33 @@ def parse_config(input_text):
     config_dict = parse_dict(config_match.group(1).strip())
 
     return json.dumps(config_dict, indent=4)
+def main():
+    try:
+        # Запрашиваем ввод конфигурации
+        print("Введите конфигурацию. Для завершения ввода оставьте строку пустой и нажмите Enter.")
+        input_text = ""
+
+        while True:
+            line = input()
+            if line.strip() == "":  # Завершаем ввод по пустой строке
+                break
+            input_text += line + "\n"
+
+        if not input_text.strip():
+            raise ValueError("Конфигурация не может быть пустой.")
+
+        # Парсинг конфигурации
+        output_json = parse_config(input_text)
+
+        # Вывод результата в стандартный вывод
+        print("\nРезультат (в формате JSON):\n")
+        print(output_json)
+
+    except Exception as e:
+        print(f"Ошибка: {e}")
+
+
+if __name__ == "__main__":
+    main()
 
 
