@@ -78,6 +78,44 @@ var имя := значение;
 
 #### Примеры работы 
 
+Пример конфигурации веб-сервера
+
+![image](https://github.com/user-attachments/assets/e49a2d82-6693-4f2a-a86f-0b5664c98c57)
+
+
+![image](https://github.com/user-attachments/assets/ec429a5b-dc10-440a-ad28-dd86ac350a78)
+
+
+Пример конфигурации облачного хранилища
+
+
+![image](https://github.com/user-attachments/assets/a74de07d-f756-419e-86d9-41378333c963)
+
+
+![image](https://github.com/user-attachments/assets/9989534d-5007-4047-b931-44d5fbb0e750)
+
+
+
+
+
+
+
+#### Результаты тестирования 
+
+Для выполнения тестов воспользуемся библиотекой unittest 
+
+![image](https://github.com/user-attachments/assets/40c13ba9-1572-4015-af03-f0ed0e686d4e)
+
+
+Также фрагменты кода с тестами
+
+![image](https://github.com/user-attachments/assets/e80048c3-6524-4701-81cb-1506f9e6de6b)
+
+![image](https://github.com/user-attachments/assets/c1e5e2cf-59b5-416d-8e0d-7b15e44a9470)
+
+
+
+
 
 
 
