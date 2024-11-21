@@ -94,6 +94,12 @@ var имя := значение;
 
 ![image](https://github.com/user-attachments/assets/9989534d-5007-4047-b931-44d5fbb0e750)
 
+Пример с многострочным комментарием
+
+![Uploading {964195C7-7F8A-4F67-82ED-BB8DD76BAF77}.png…]()
+
+
+![Uploading {C3894701-B1BF-4408-A3C2-DE8FE777DFC8}.png…]()
 
 
 
