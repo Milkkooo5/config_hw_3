@@ -96,13 +96,11 @@ var имя := значение;
 
 Пример с многострочным комментарием
 
-![Uploading {964195C7-7F8A-4F67-82ED-BB8DD76BAF77}.png…]()
-
-
-![Uploading {C3894701-B1BF-4408-A3C2-DE8FE777DFC8}.png…]()
+![{307C7D22-942E-4876-9BA7-A03D03867132}](https://github.com/user-attachments/assets/f183d545-99b8-485e-931f-e8581332e924)
 
 
 
+![{5F333738-4F1E-4443-9972-C4767EBC9861}](https://github.com/user-attachments/assets/1283ffcc-1d6f-419f-9136-2d28bb35ae1e)
 
 
 
